@@ -6,7 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/grajchhabra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:grajchhabra@gmail.com) 
 
 # 💻 Tech Stack:
-## 💻 Tech Stack:
 ![Verilog](https://img.shields.io/badge/Verilog-grey?style=for-the-badge)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-blue?style=for-the-badge)
 ![UVM](https://img.shields.io/badge/UVM-orange?style=for-the-badge)
