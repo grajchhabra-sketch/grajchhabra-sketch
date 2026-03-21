@@ -2,7 +2,7 @@
 🔭 I’m currently working on🔭 Digital Design projects using Verilog & SystemVerilog<br>👯 I’m looking to collaborate on👯 VLSI, RTL Design, and Verification projects<br>🤝 I’m looking for help with🤝  UVM, ASIC Design Flow, and Advanced Verification<br>🌱 I’m currently learning 🌱 SystemVerilog, UVM, and FPGA Design using Vivado<br>💬 Ask me about💬 Verilog, SystemVerilog, Digital Electronics, FIFO, UART, Counters, and RTL Design<br>⚡ Fun fact⚡ I enjoy building hardware projects and sharing them on GitHub
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/grajchhabra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:grajchhabra@gmail.com) 
 
 # 💻 Tech Stack:
