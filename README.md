@@ -10,8 +10,6 @@
 ![Verilog](https://img.shields.io/badge/Verilog-grey?style=for-the-badge)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-blue?style=for-the-badge)
 ![UVM](https://img.shields.io/badge/UVM-orange?style=for-the-badge)
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
 ![Vivado](https://img.shields.io/badge/Vivado-red?style=for-the-badge)
 ![FPGA](https://img.shields.io/badge/FPGA-green?style=for-the-badge)
 ![GTKWave](https://img.shields.io/badge/GTKWave-black?style=for-the-badge)
