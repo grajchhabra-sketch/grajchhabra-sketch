@@ -1,5 +1,4 @@
-# grajchhabra# 💫
-About Me:
+# 💫About Me:
 🔭 I’m currently working on🔭 Digital Design projects using Verilog & SystemVerilog<br>👯 I’m looking to collaborate on👯 VLSI, RTL Design, and Verification projects<br>🤝 I’m looking for help with🤝  UVM, ASIC Design Flow, and Advanced Verification<br>🌱 I’m currently learning 🌱 SystemVerilog, UVM, and FPGA Design using Vivado<br>💬 Ask me about💬 Verilog, SystemVerilog, Digital Electronics, FIFO, UART, Counters, and RTL Design<br>⚡ Fun fact⚡ I enjoy building hardware projects and sharing them on GitHub
 
 
