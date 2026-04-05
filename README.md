@@ -68,11 +68,10 @@
 
 ---
 
-## 📌 Featured Projects (Add your best ones here)
+## 📌 Featured Projects 
 - 🔹 UART Design in Verilog  
 - 🔹 FIFO Design & Verification  
 - 🔹 SPI Protocol Implementation  
-- 🔹 Arbiter Design (Round Robin / Fixed Priority)
 
 ---
 
