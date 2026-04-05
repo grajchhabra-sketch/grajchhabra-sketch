@@ -1,53 +1,6 @@
-<svg width="900" height="120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0a0e1a"/>
-      <stop offset="50%" style="stop-color:#0d1b3e"/>
-      <stop offset="100%" style="stop-color:#0a0e1a"/>
-    </linearGradient>
-    <linearGradient id="textgrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00d4ff"/>
-      <stop offset="50%" style="stop-color:#a78bfa"/>
-      <stop offset="100%" style="stop-color:#00d4ff"/>
-    </linearGradient>
-  </defs>
-  <rect width="900" height="120" fill="url(#bg)" rx="12"/>
-  <!-- grid lines -->
-  <line x1="0" y1="30" x2="900" y2="30" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
-  <line x1="0" y1="60" x2="900" y2="60" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
-  <line x1="0" y1="90" x2="900" y2="90" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
-  <line x1="150" y1="0" x2="150" y2="120" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
-  <line x1="300" y1="0" x2="300" y2="120" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
-  <line x1="450" y1="0" x2="450" y2="120" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
-  <line x1="600" y1="0" x2="600" y2="120" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
-  <line x1="750" y1="0" x2="750" y2="120" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
-  <!-- accent dots -->
-  <circle cx="30" cy="20" r="2" fill="#00d4ff" opacity="0.4"/>
-  <circle cx="870" cy="20" r="2" fill="#a78bfa" opacity="0.4"/>
-  <circle cx="30" cy="100" r="2" fill="#a78bfa" opacity="0.4"/>
-  <circle cx="870" cy="100" r="2" fill="#00d4ff" opacity="0.4"/>
-  <!-- bracket left -->
-  <text x="28" y="72" font-family="monospace" font-size="48" fill="#00d4ff" opacity="0.5">[</text>
-  <!-- bracket right -->
-  <text x="858" y="72" font-family="monospace" font-size="48" fill="#00d4ff" opacity="0.5">]</text>
-  <!-- main name with gradient via filter trick -->
-  <text x="450" y="58" 
-        font-family="'Courier New', Courier, monospace" 
-        font-size="38" 
-        font-weight="bold" 
-        text-anchor="middle" 
-        fill="url(#textgrad)"
-        letter-spacing="6">GAUTAM RAJ CHHABRA</text>
-  <!-- subtitle -->
-  <text x="450" y="88" 
-        font-family="'Courier New', Courier, monospace" 
-        font-size="13" 
-        text-anchor="middle" 
-        fill="#64748b"
-        letter-spacing="3">RTL DESIGN  ·  SYSTEMVERILOG  ·  VLSI  ·  FPGA</text>
-</svg>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=RTL+Design+Engineer;SystemVerilog+%7C+Verilog+%7C+UVM;FPGA+%7C+ASIC+Design+Flow;Building+silicon-ready+hardware+logic" alt="Typing SVG" />
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=100&text=GAUTAM%20RAJ%20CHHABRA&fontAlign=50&fontAlignY=55&fontSize=45&fontColor=00d4ff&desc=RTL%20Design%20%7C%20SystemVerilog%20%7C%20VLSI&descAlignY=80&descSize=16&descColor=ffffff&animation=fadeIn" width="100%"/>
 
 <br>
 
