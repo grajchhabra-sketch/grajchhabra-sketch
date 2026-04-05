@@ -66,6 +66,19 @@
 
 ---
 
+## 💻 Core Expertise:
+
+- 🔹 Verilog (RTL Design)
+- 🔹 SystemVerilog (Verification, Assertions, Testbench)
+- 🔹 FPGA Design (Xilinx Vivado)
+- 🔹 ASIC Design Flow
+- 🔹 Cadence Xcelium Simulation
+
+![Verilog](https://img.shields.io/badge/Verilog-RTL-blue?style=for-the-badge)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-Verification-purple?style=for-the-badge)
+
+---
+
 ## 🧠 Areas of Interest:
 - RTL Design & Verification
 - FPGA Prototyping
