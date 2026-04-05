@@ -1,20 +1,10 @@
 <div align="center">
 
 ```
-  _____         _    _ _______       __  __    _____                ___
- / ____|   /\  | |  | |__   __|/\   |  \/  |   |  __ \     /\       | |
-| |  __   /  \ | |  | |  | |  /  \  | \  / |   | |__) |   /  \      | |
-| | |_ | / /\ \| |  | |  | | / /\ \ | |\/| |   |  _  /   / /\ \ _   | |                              
-| |__| |/ ____ \ |__| |  | |/ ____ \| |  | |   | | \ \  / ____ \ |__| |  
- \_____/_/    \_\____/   |_/_/    \_\_|  |_|   |_|  \_\/_/    \_\____/ 
-```
-```
-  _____ _    _ _    _          ____  _____           
- / ____| |  | | |  | |   /\   |  _ \|  __ \     /\   
-| |    | |__| | |__| |  /  \  | |_) | |__) |   /  \  
-| |    |  __  |  __  | / /\ \ |  _ <|  _  /   / /\ \ 
-| |____| |  | | |  | |/ ____ \| |_) | | \ \  / ____ \
- \_____|_|  |_|_|  |_/_/    \_\____/|_|  \_\/_/    \_\
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=GAUTAM%20RAJ%20CHHABRA&fontSize=50&fontColor=fff&fontAlignY=38&desc=RTL%20Design%20%7C%20SystemVerilog%20%7C%20VLSI%20Engineer&descAlignY=58&descSize=18&animation=fadeIn)
+
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=RTL+Design+Engineer;SystemVerilog+%7C+Verilog+%7C+UVM;FPGA+%7C+ASIC+Design+Flow;Building+silicon-ready+hardware+logic" alt="Typing SVG" />
