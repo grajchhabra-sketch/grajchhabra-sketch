@@ -60,14 +60,6 @@
 
 ---
 
-## 🏆 GitHub Trophies:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=grajchhabra-sketch&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 🧠 Areas of Interest:
 - RTL Design & Verification
 - FPGA Prototyping
