@@ -45,12 +45,25 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=grajchhabra-sketch&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grajchhabra-sketch&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grajchhabra-sketch&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=grajchhabra-sketch&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=grajchhabra-sketch&theme=tokyonight" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=grajchhabra-sketch&theme=tokyonight" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=grajchhabra-sketch&theme=tokyonight" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=grajchhabra-sketch&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies:
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=grajchhabra-sketch&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
