@@ -45,7 +45,8 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grajchhabra-sketch&theme=nord_dark" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=grajchhabra-sketch&theme=nord_dark" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=grajchhabra-sketch&theme=nord_dark&utcOffset=5.5" height="160"/>
 </p>
 
 <br>
@@ -55,11 +56,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=grajchhabra-sketch&theme=nord_dark" height="160"/>
 </p>
 
-<br>
+---
+
+## 📈 Contribution Graph:
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=grajchhabra-sketch&theme=nord_dark" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=grajchhabra-sketch&theme=nord_dark" height="160"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=grajchhabra-sketch&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
